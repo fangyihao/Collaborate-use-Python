@@ -7,7 +7,7 @@ color("White")
 def hex(side):
     for count in range(6):
         forward(side)
-        left(61)
+        left(60)
  
 def rotation():
  
